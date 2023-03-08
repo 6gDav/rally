@@ -1,0 +1,7 @@
+#conrainer{
+    display: flex;
+    flex-direction: column;
+}
+div{
+    display: block;
+}
